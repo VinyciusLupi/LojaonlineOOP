@@ -1,0 +1,14 @@
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\bin\Debug\net8.0\AP2C#.exe
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\bin\Debug\net8.0\AP2C#.deps.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\bin\Debug\net8.0\AP2C#.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\bin\Debug\net8.0\AP2C#.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\bin\Debug\net8.0\AP2C#.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\AP2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\AP2C#.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\AP2C#.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\AP2C#.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\AP2C#.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\refint\AP2C#.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\AP2C#.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\AP2C#.genruntimeconfig.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\AP2C#\obj\Debug\net8.0\ref\AP2C#.dll
